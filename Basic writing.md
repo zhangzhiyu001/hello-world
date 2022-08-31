@@ -14,6 +14,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-## Section Links(## styling-text)
-
+## Section Links
+#Real Cool Heading
+[Go to Real Cool Heading section](#real-cool-heading)
 
