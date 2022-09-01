@@ -1,2 +1,2 @@
-assets/images/1寸.jpg
+![elctrocat](/electrocat.png)
 	
