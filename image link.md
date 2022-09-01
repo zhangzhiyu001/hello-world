@@ -8,4 +8,5 @@ i like ![elctrocat](/electrocat.png)
 1. https://github.com/zhangzhiyu001/hello-world/blob/main/1%E5%AF%B8.jpg
 2. https://github.com/zhangzhiyu001/hello-world/blob/edit/image link.md
 
-![second](../main/electrocat.png)
+![elctrocat](../main/electrocat.png)
+
