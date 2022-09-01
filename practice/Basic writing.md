@@ -17,6 +17,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Go to Real Cool Heading section](#the-largest-heading)
 
-[Contribution guidelines for this project](/CONTRIBUTING.md)
+[A file in the same filefold for this project](./1.txt)
+[A file in the other filefold for this project](../readme/README.md)
 
 Links starting with / will be relative to the repository root. You can use all relative link operands, such as ./ and ../
