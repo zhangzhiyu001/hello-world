@@ -1,5 +1,5 @@
 #The Largest Heading
-## styling text
+  ## styling text
 Today is my **birthday**, my parents *Xiaoyi* and *Wenping* are very ~~happy~~, ** -unhappy- **.
 > the day I was born, something unspecial happened.
 
@@ -55,5 +55,24 @@ If a task list item description begins with a parenthesis, you'll need to escape
 
 - [ ] \(Optional) Open a followup issue
 
+#### using emoji
+it is ready to merge! :shipit: :tada:.
 
+#### Footnotes
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: aasdasf
+  asfafad
+[^note]:
+     asdasf
+     afasfasf
+
+#### Ignoring Markdown formatting
+\+符号
+Let's rename \*our-new-project\* to \*our-old-project\*.
 
