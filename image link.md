@@ -5,8 +5,10 @@ i like ![elctrocat](/electrocat.png)
 
 ## 从一个branch引用另一个branch的图片
 原始链接是
-1. https://github.com/zhangzhiyu001/hello-world/blob/main/1%E5%AF%B8.jpg
+1. https://github.com/zhangzhiyu001/hello-world/blob/main/electrocat.png
 2. https://github.com/zhangzhiyu001/hello-world/blob/edit/image link.md
 
 ![elctrocat](../main/electrocat.png)
 
+relative path=目标链接 - 所在链接
+被减的链接 没有重复的部分用..代替 
