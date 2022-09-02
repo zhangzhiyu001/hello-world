@@ -76,3 +76,5 @@ You can also use words, to fit your writing style more closely[^note].
 \+符号
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
+#### Hiding content with comments
+<!-- this content will not show in a rendered .md file -->
